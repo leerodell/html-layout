@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+}
+
+.topcontainer{
+    width: 100%;
+    border: 5px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.purplebox{
+    width: 30px;
+    height: 150px;
+    display: inline-block;
+    background-color: blueviolet;
+    margin: 50px 40px 0px 0px;
+}
+
+.greenbox{
+    width: 300px;
+    height: 180px;
+    display: inline-block;
+    background-color: green;
+}
+
+.bluecircle{
+    width: 180px;
+    height: 180px;
+    background-color: lightblue;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0px 0px 0px 50px;
+}
+
+.middlecontainer{
+    width: 100%;
+    padding: 10px;
+    border: 5px dotted black;
+    box-sizing: border-box;
+    margin: 20px 0px;
+}
+
+.yellowbox{
+    width: 1800px;
+    height: 180px;
+    background-color: lightgoldenrodyellow;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
